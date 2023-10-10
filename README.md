@@ -1,16 +1,30 @@
-### Hi there 👋
+## Привет 🧐
+### Я Python-backend разработчик 🤓
+**Языки программирования:**
+ - Python 😍
+ - Rust ❤️
+ - JS
 
-<!--
-**KKorionKK/KKorionKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Основной стек на Python**
+ - [x] - FastAPI
+ - [x] - PostgreSQL
+ - [x] - SQLAlchemy
+ - [x] - Alembic
+ - [x] - Docker
+ - [x] - Redis
+ - [x] - Pydantic
+ - [x] - Pytest
+ - [x] - JWT
+ - [ ] - NGINX
+ - [x] - WebSocket
+ - [x] - Celery
+ - [x] - asyncio
+ - [ ] - aiohttp
+ - [ ] - GraphQL
+ - [ ] - Graphana
+ - [ ] - Django
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Стек на Rust**
+ - [x] - Basics
+ - [ ] - Tokio
+ - [ ] - Cargo
