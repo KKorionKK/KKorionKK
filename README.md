@@ -7,6 +7,7 @@
 
 **Основной стек на Python**
  - [x] - FastAPI
+ - [ ] - Falcon
  - [x] - PostgreSQL
  - [x] - SQLAlchemy
  - [x] - Alembic
@@ -22,7 +23,8 @@
  - [ ] - aiohttp
  - [ ] - GraphQL
  - [ ] - Graphana
- - [ ] - Django
+ - [ ] - Kafka
+ - [ ] - Jenkins
 
 **Стек на Rust**
  - [x] - Basics
