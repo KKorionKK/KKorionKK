@@ -7,7 +7,7 @@
 
 **Основной стек на Python**
  - [x] - FastAPI
- - [ ] - Falcon
+ - [x] - Falcon
  - [x] - PostgreSQL
  - [x] - SQLAlchemy
  - [x] - Alembic
