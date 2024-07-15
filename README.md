@@ -1,32 +1,21 @@
-## Привет 🧐
-### Я Python-backend разработчик 🤓
-**Языки программирования:**
+## Hi! 🧐
+### I'm Backend Engineer 🤓
+**Languages**
  - Python 😍
  - Rust ❤️
  - JS
 
-**Основной стек на Python**
- - [x] - FastAPI
- - [x] - Falcon
- - [x] - PostgreSQL
- - [x] - SQLAlchemy
- - [x] - Alembic
- - [x] - Docker
- - [x] - Redis
- - [x] - Pydantic
- - [x] - Pytest
- - [x] - JWT
- - [ ] - NGINX
- - [x] - WebSocket
- - [x] - Celery
- - [x] - asyncio
- - [ ] - aiohttp
- - [ ] - GraphQL
- - [ ] - Graphana
- - [ ] - Kafka
- - [ ] - Jenkins
+**About me**
+21 years old actively developing enigneer, love Shortparis ^.^
 
-**Стек на Rust**
- - [x] - Basics
- - [ ] - Tokio
- - [ ] - Cargo
+**Techonologies**
+ - [x] - FastAPI, Falcon
+ - [x] - Docker
+ - [x] - PostgreSQL, MySQL, Redis, MongoDB
+ - [x] - asyncio
+ - [x] - Jenkins
+ - [x] - Actions
+ - [x] - RabbitMQ, Kafka
+ - [x] - Nginx
+ - [x] - Algorithms
+ - [x] - SQL
