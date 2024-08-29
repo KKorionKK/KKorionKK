@@ -19,4 +19,8 @@
  - [x] - RabbitMQ, Kafka
  - [x] - Nginx
  - [x] - Algorithms
- - [x] - SQL
+ - [x] - Pydantic
+ - [x] - SQLAlchemy
+ - [x] - Motor
+ - [x] - aiogram
+ - [x] - Celery
